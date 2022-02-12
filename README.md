@@ -86,7 +86,7 @@ The project has been carried out on Google Colaboratory.
 
 ## Technologies Used
 
-Python, pandas, NumPy, Matplotlib, SciPy
+Python, pandas, NumPy, Matplotlib, SciPy, Scikit-learn
 
 ## Contact Details
 
